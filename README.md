@@ -1,7 +1,9 @@
 # Portfolio Website
 
 This is my personal portfolio site showcasing my projects, background, and experiences.  
-It was built using **React**, **Vite**, and plain **CSS**, and is deployed on GitHub Pages.  
+It was built using **React**, **Vite**, and plain **CSS**, and is deployed on GitHub Pages.
+
+👉 [Access live website here!](<https://clementkubica.github.io/Portfolio/>)
 
 ---
 
@@ -33,7 +35,7 @@ Preview the production build:
 ## 📹 Project Video
 
 A short demo video (under 10 minutes) walking through the site, its purpose, technologies, responsiveness, and accessibility is available here:  
-👉 [Watch the demo video](<INSERT_VIDEO_LINK_HERE>)
+👉 [Watch the demo video](<https://youtu.be/2kt3DrdCDHo>)
 
 ---
 

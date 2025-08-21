@@ -22,7 +22,7 @@ export default function Home() {
             Python, and AWS. Former D-I swimmer; internationally educated in FR/UK/USA.
           </p>
           <div className="actions">
-            <a className="button" href="/resume.pdf" target="_blank" rel="noreferrer">Resume</a>
+            <a className="button" href="/Portfolio/resume.pdf" target="_blank" rel="noreferrer">Resume</a>
           </div>
         </div>
       </div>

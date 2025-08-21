@@ -14,7 +14,7 @@ export default function About() {
             minimal, fast things that solve real problems.
           </p>
           <div className="actions">
-            <a className="button button--accent" href="/resume.pdf" target="_blank" rel="noreferrer">
+            <a className="button button--accent" href="/Portfolio/resume.pdf" target="_blank" rel="noreferrer">
               Resume (PDF)
             </a>
           </div>
@@ -198,7 +198,7 @@ export default function About() {
 
       <aside className="note">
         <p>Open to internships, research, and collaborations.</p>
-        <a className="button" href="/resume.pdf" target="_blank" rel="noreferrer">Resume</a>
+        <a className="button" href="/Portfolio/resume.pdf" target="_blank" rel="noreferrer">Resume</a>
       </aside>
     </section>
   )

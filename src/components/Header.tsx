@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="site-header">
       <div className="container header-row">
-        <a className="brand" href="/">Clément Kubica</a>
+        <a className="brand" href="/Portfolio/">Clément Kubica</a>
         <Nav />
       </div>
     </header>
