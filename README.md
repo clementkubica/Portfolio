@@ -49,6 +49,6 @@ A short demo video (under 10 minutes) walking through the site, its purpose, tec
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational purposes only.
