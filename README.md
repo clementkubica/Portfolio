@@ -3,11 +3,11 @@
 This is my personal portfolio site showcasing my projects, background, and experiences.  
 It was built using **React**, **Vite**, and plain **CSS**, and is deployed on GitHub Pages.
 
-👉 [Access live website here!](<https://clementkubica.github.io/Portfolio/>)
+-> [Access live website here!](<https://clementkubica.github.io/Portfolio/>)
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 Clone the repository:
 
@@ -32,14 +32,14 @@ Preview the production build:
 
 ---
 
-## 📹 Project Video
+## Project Video
 
 A short demo video (under 10 minutes) walking through the site, its purpose, technologies, responsiveness, and accessibility is available here:  
-👉 [Watch the demo video](<https://youtu.be/2kt3DrdCDHo>)
+-> [Watch the demo video](<https://youtu.be/2kt3DrdCDHo>)
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean homepage with highlights and featured projects  
 - Dedicated projects page with detailed descriptions and links to code  
